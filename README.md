@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dharmraj Patil 👋
 
-<!--
-**Dharmraj-web/Dharmraj-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm an IT student focused on developing strong programming fundamentals, problem-solving skills, and practical software development experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Pursuing B.Tech in Information Technology
+* 💻 Learning programming and software development
+* 🌱 Exploring Data Structures and Algorithms
+* 🛠️ Learning Git and GitHub
+* 🚀 Working toward building my first software projects
+* 🎯 Aspiring Software Engineer
+
+## 📚 Currently Learning
+
+* Programming fundamentals
+* Object-Oriented Programming
+* Data Structures and Algorithms
+* Version control with Git and GitHub
+
+## 🚀 My Developer Journey
+
+I'm building my technical skills step by step and plan to share my projects, learning experiences, and progress here as I grow as a developer.
+
+## 🤝 Connect With Me
+
+* GitHub: [My Profile](https://github.com/Dharmraj-web)
+* LinkedIn: [My LinkedIn](www.linkedin.com/in/dharmraj-patil-735a11305)
+
+*Learn. Build. Improve. Repeat.*
