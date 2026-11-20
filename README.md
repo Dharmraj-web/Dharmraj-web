@@ -25,6 +25,6 @@ I'm building my technical skills step by step and plan to share my projects, lea
 ## 🤝 Connect With Me
 
 * GitHub: [My Profile](https://github.com/Dharmraj-web)
-* LinkedIn: [My LinkedIn](www.linkedin.com/in/dharmraj-patil-735a11305)
+* LinkedIn: [My LinkedIn](linkedin.com/in/dharmraj-patil-735a11305)
 
 *Learn. Build. Improve. Repeat.*
